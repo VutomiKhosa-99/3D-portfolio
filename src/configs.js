@@ -7,8 +7,8 @@ import {
 } from './constants/pageData';
 
 const configs = {
-  title: 'Tomas Gonzalez',
-  subTitle: 'Dev portfolio.',
+  title: 'Vutomi Khosa',
+  subTitle: 'Development portfolio.',
   stars: {
     maxSize: 20,
     emissionIntencity: 40,
@@ -16,7 +16,7 @@ const configs = {
     // url: 'icons/three-js-logo.png',
     dencity: 900,
   },
-  navTitle: 'Tomas Gonzalez portfolio.',
+  navTitle: 'Vutomi Khosa portfolio.',
   relevantStops: STOPS,
   pages: [
     {
@@ -27,8 +27,8 @@ const configs = {
       title: 'Who Am I?',
       infos: [
         "* I'm a maker, a curious thinker who enjoys learning and comprehending how things function.",
-        '* My journey as a software developer started when I was a just a kid trying to figure out how video games where made.',
-        '* I started my career as a front-end developer around 6 years ago in 2017, and since then I have helped many startup companies and non-profit organizations to develop quality products.',
+        '* My journey as a software developer started when I was a just a kid trying to figure out how video games were made.',
+        '* I started my career as a full-stack developer in April 2023 at The Digital Academy, and since then I have built applications that solve real problems in the real world.',
         '* I have a wide range of skills, of which I can say that I’ve mastered many.',
       ],
     },
@@ -67,7 +67,7 @@ const configs = {
           {
             url: 'icons/resume.png',
             websiteURL:
-              'https://docs.google.com/document/d/1wKGkXHhd7q5v3AOGPMK6Gtehpp_Tkp90BvUufUqQIRc/edit?usp=sharing',
+              'https://drive.google.com/file/d/1MxzsoQTcGHlTUnAXKqW6p_sz9z11r5E-/view?usp=sharing',
           },
         ],
       },
@@ -130,20 +130,20 @@ const configs = {
         items: [
           {
             url: 'icons/twitter.png',
-            websiteURL: 'https://twitter.com/kiter_js',
+            websiteURL: 'https://twitter.com/LuigiKhosa',
           },
           {
             url: 'icons/linkedin.png',
             websiteURL:
-              'https://www.linkedin.com/in/tomas-gonzalez-perez-8784a2133/',
+              'https://www.linkedin.com/in/vutomi-luigi-khosa/',
           },
           {
             url: 'icons/github.png',
-            websiteURL: 'https://github.com/TomasGonzalez',
+            websiteURL: 'https://github.com/VutomiKhosa-99',
           },
           {
             url: 'icons/email.png',
-            websiteURL: 'mailto:tomasgp14@gmail.com',
+            websiteURL: 'mailto:khosavutomi99@gmail.com',
           },
         ],
       },
