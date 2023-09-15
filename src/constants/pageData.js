@@ -10,7 +10,7 @@
 export const PAGE_DEPH_MARGIN = 15;
 
 export const EXPERIENCE = {
-  rows: 2,
+  rows: 1,
   separation: 3,
   leftPadding: -0.32,
   topPadding: 0.22,
@@ -24,28 +24,14 @@ export const EXPERIENCE = {
   },
   items: [
     {
-      url: 'websites-preview/optic-logo.png',
-      websiteURL: 'https://optic.id/',
+      url: 'websites-preview/DA2.png',
+      websiteURL: 'https://www.thedigitalacademy.co.za/',
     },
     {
-      url: 'websites-preview/good-dollar.jpeg',
-      websiteURL: 'https://www.gooddollar.org/',
+      url: 'websites-preview/absa.png',
+      websiteURL: 'https://www.absa.co.za/personal/',
     },
-    {
-      url: 'websites-preview/cs2.png',
-      websiteURL:
-        'https://633880ea5adf252405f33fce--capable-buttercream-d8879f.netlify.app/cs.html', //optional open url in new tab
-    },
-    {
-      url: 'websites-preview/knack-page.png',
-      websiteURL:
-        'https://633880ea5adf252405f33fce--capable-buttercream-d8879f.netlify.app/knack.html',
-    },
-    {
-      url: 'websites-preview/magic.png',
-      websiteURL:
-        'https://633880ea5adf252405f33fce--capable-buttercream-d8879f.netlify.app/magic-app.html',
-    },
+  
   ],
 };
 
@@ -56,18 +42,18 @@ export const SKILLS_LIST = {
   topPadding: 0.33,
   scale: 0.15,
   items: [
-    { url: 'icons/react-native.png', websiteURL: null },
-    { url: 'icons/react-logo.png', websiteURL: null },
-    { url: 'icons/ts-logo.png', websiteURL: null },
-    { url: 'icons/js-logo.png', websiteURL: null },
-    { url: 'icons/css-logo.png', websiteURL: null },
-    { url: 'icons/html-logo.png', websiteURL: null },
-    { url: 'icons/node-js-logo.png', websiteURL: null },
-    { url: 'icons/python-logo.png', websiteURL: null },
-    { url: 'icons/three-js-logo.png', websiteURL: null },
-    { url: 'icons/jest-logo.png', websiteURL: null },
-    { url: 'icons/graph-ql-logo.png', websiteURL: null },
-    { url: 'icons/vim-logo.png', websiteURL: null },
+    { url: 'icons/angularjs.svg', websiteURL: null },
+    { url: 'icons/react.svg', websiteURL: null },
+    { url: 'icons/sass.svg', websiteURL: null },
+    { url: 'icons/css3.svg', websiteURL: null },
+    { url: 'icons/docker.svg', websiteURL: null },
+    { url: 'icons/git.svg', websiteURL: null },
+    { url: 'icons/html5.svg', websiteURL: null },
+    { url: 'icons/nodejs.svg', websiteURL: null },
+    { url: 'icons/typescript.svg', websiteURL: null },
+    { url: 'icons/javascript.svg', websiteURL: null },
+    { url: 'icons/postgresql.svg', websiteURL: null },
+    { url: 'icons/bootstrap.svg', websiteURL: null },
   ],
 };
 

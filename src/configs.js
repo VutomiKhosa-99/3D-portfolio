@@ -87,29 +87,29 @@ const configs = {
         scale: 0.3,
         items: [
           {
-            url: 'websites-preview/nft-place-logo.png',
-            websiteURL: 'https://nft-place.xyz/',
+            url: 'websites-preview/repairNotes.jpg',
+            websiteURL: 'https://notes-frontend-ctbs.onrender.com/',
           },
           {
-            url: 'websites-preview/snow-hero.png',
-            websiteURL: 'https://powtom48.itch.io/snow-the-hero',
+            url: 'websites-preview/tenzies.jpg',
+            websiteURL: 'https://tenzies-2.netlify.app/',
           },
           {
-            url: 'websites-preview/minecraft-in-js.png',
+            url: 'websites-preview/personal-dashboard.jpg',
             websiteURL:
-              'https://www.youtube.com/watch?v=yOUQquusyiY&t=123s&ab_channel=tomugon',
+              'https://github.com/VutomiKhosa-99/Personal_Dashboard-Chrome-Extension',
           },
           {
-            url: 'websites-preview/fish-chopter.png',
-            websiteURL: 'https://powtom48.itch.io/fishcopter',
+            url: 'websites-preview/meme-generator.jpg',
+            websiteURL: 'https://meme-generator-2.netlify.app/',
           },
           {
-            url: 'websites-preview/odd-clowns.png',
-            websiteURL: 'https://oddclowns.com/',
+            url: 'websites-preview/regipro.png',
+            websiteURL: 'https://regipro.vercel.app/landing'
           },
           {
-            url: 'websites-preview/island-ai.png',
-            websiteURL: 'https://www.instagram.com/island.ai/',
+            url: 'websites-preview/typing-speed.jpg',
+            websiteURL: 'https://typing-speed-2.netlify.app/',
           },
         ],
       },
